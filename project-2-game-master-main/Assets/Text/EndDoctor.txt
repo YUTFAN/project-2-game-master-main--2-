@@ -1,0 +1,17 @@
+<stage0>
+?<title>Well Done, you did an excellent job completing the task
+?<title>The previous doctor was almost out of control of the mask.
+?<title>However, the issue has already been resolved by you.
+Master<title>Take over from him and continue to manage this place for me.
+<title>Of course, master.
+<stage1>
+<title>How are you feeling today?
+<title>Have you taken your <color=#FF0000>medication</color> as prescribed?
+Prisoner<title>......
+<title>Please take your <color=#FF0000>medication</color>.
+Prisoner<title>......
+<stage3>
+<title>Very well, you seem to have taken your <color=#FF0000>medication</color> on time this time.
+<title>It appears that your condition has improved.
+Prisoner<title>Thank you, <color=#FF0000>Doctor</color>. Can you tell me approximately how much longer I'll need to stay in the hospital? I feel like I'm already better.
+<title>Please be patient. I can't provide a specific answer on how much longer it will take at this moment...

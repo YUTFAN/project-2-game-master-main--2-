@@ -1,0 +1,15 @@
+<stage0>
+<title>Door
+<title>Just a normal door, maybe I can <color=#FF0000>escape</color> if I can open it?
+<stage1>
+<title>Doctor may come back at <color=#FF0000>any time</color>
+<title>I do better keep it for now
+<stage2>
+<title>It seems like I mess it up
+<title>Maybe I should remember the shape of the <color=#FF0000>key</color>?
+<stage3>
+<title>Am I free to go now?
+<title>Yes! Let's go!
+<stage4>
+<title>You banged on the door
+<title>............

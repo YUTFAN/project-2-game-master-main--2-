@@ -1,0 +1,76 @@
+<stage0>
+?<title>HAHAHAHAHA YOU DIE!
+<title>......
+<stage1>
+Boy<title>How did you not killed by the doctor? That's really inpressive..
+<title>......
+Boy<title>It doesn't matter, you can't escape from here anyway.
+Boy<title>Staying here is no different from being killed, and it might even be worse than being killed.
+<stage2>
+Boy<title>leave me alone.
+<stage3>
+<title>I heard the story from YOU.
+Boy<title>How do you know? Alright, I'll give you <color=#FF0000>three chances</color>.
+Boy<title>If you can pick the <color=#FF0000>right card</color> out of three, it will prove it's fate. I will help you escape.
+<stage4>
+Boy<title>You're back again. You have two more chances.
+<stage5>
+Boy<title>This is your last chance. I suggest you face reality and give up as soon as possible.
+<stage6>
+Boy<title>Face the reality, your fate is to be forever trapped here.
+<stage7>
+Boy<title>How did you get hold of that?
+Boy<title>That is the key to my long-sought escape.
+Boy<title>Alright, I'll tell you. Nothing can harm the doctor, except for a <color=#FF0000>special surgical knife</color>.
+Boy<title>The doctor has trapped us in a loop, and only that <color=#FF0000>card</color> can distinguish between the mirror and reality.
+Boy<title>Go, find that <color=#FF0000>knife</color>, and set us free.
+Boy<title>When you get the <color=#FF0000>knife</color>, I will distract the doctor. That will be your chance.
+<stage8>
+Boy<title>I believe you can do it. The fact that you have this <color=#FF0000>card</color> already proves your ability.
+<stage9>
+yoB<title>Oh, it's you. 
+yoB<title>No, you don't belong here.
+<title>I am trapped here.
+yoB<title>This is a mirrored world, and you won't find the answers you seek here.
+yoB<title>Almost everyone wishes the world was symmetrical.
+yoB<title>But the reality is far from it.
+yoB<title>That God made the laws only nearly symmetrical so that we should not be jealous of His perfection!
+yoB<title>The Feynman Lectures on Physics, Volume I, Chapter 52.Symmetry in Physical Laws.
+yoB<title>You should read that.
+yoB<title>Regardless, you are now caught between the squeeze of reality and the mirrored world.
+yoB<title>This place is very dangerous and unstable.
+yoB<title><color=#FF0000>Find the version of me</color> in the regular world and play a <color=#FF0000>card game</color>with him. He will assist you.
+<stage10>
+yoB<title><color=#FF0000>Find the version of me</color> in the regular world and play a <color=#FF0000>card game</color> with him.
+<stage11>
+<title>I can't win that game.
+yoB<title>Don't lose hope. He's probably testing you. Keep trying.
+<stage12>
+<title>I can't win that game, I've been losing all along.
+yoB<title>Ohh I see. He never intended for you to win. He just thinks you're not qualified.
+yoB<title>I'll give you a <color=#FF0000>special card</color>. Show this to him, he will understand.
+yoB<title>The violation of parity conservation was just a hypothesis before it was experimentally confirmed.
+yoB<title>But we are fortunate to live in an era where the violation of parity conservation has been experimentally confirmed.
+yoB<title>In fact, this <color=#FF0000>card</color> can distinguish between the real world and the mirrored world.
+yoB<title>In the real world, it always flies to the left.
+yoB<title>Using it can help you from getting lost between the two worlds
+yoB<title>Remember, play this <color=#FF0000>card</color> with <color=#FF0000>doctor's mask</color> could really make you become a real world traveller
+yoB<title>Good Luck.
+<stage13>
+yoB<title>Go ahead, show him this <color=#FF0000>card</color>.
+<stage14>
+yoB<title>It seems like you're ready.
+<stage15>
+Boy<title>Choose a <color=#FF0000>card</color> and see what fate has in store for you.
+<stage16>
+Boy<title>Seems like luck isn't on your side.
+<stage17>
+Boy<title>You've managed to grab the <color=#FF0000>knife</color>.
+Boy<title>It's time for <color=#FF0000>revenge</color>.
+Boy<title>I'll help you get the doctor's attention. That's your chance.
+Boy<title>Doctor, someone has run out!
+<stage18>
+Boy<title>Remember, the doctor has us trapped in a <color=#FF0000>loop</color>, but sometimes you can use the loop to your advantage too.
+Boy<title>Doctor, someone has run out!
+<stage19>
+Boy<title>Just do it!

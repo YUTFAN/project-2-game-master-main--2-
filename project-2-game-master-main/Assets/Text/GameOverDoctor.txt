@@ -1,0 +1,6 @@
+<stage0>
+<title>Where are you going?
+<stage1>
+<title>Where is the key??
+<stage2>
+<title>Time out, better luck in next the loop

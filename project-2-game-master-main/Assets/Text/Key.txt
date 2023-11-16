@@ -1,0 +1,8 @@
+<stage0>
+<title>Doctor keep his eye on the <color=#FF0000>key</color>.
+<stage1>
+<title>Did he just forgot the <color=#FF0000>key</color>.
+<title>This may be a chance for me.
+<stage2>
+<title>Doctor may come back at <color=#FF0000>any time</color>.
+<title>I do better keep it here.

@@ -1,0 +1,4 @@
+<stage0>
+Doctor<title>Do you think I don't know what you did?
+Doctor<title>If it weren't for the administrator's prohibition, I would have eliminated you long ago.
+Doctor<title>Your little tricks can't hurt me.

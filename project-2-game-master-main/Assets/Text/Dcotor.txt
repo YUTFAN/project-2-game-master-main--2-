@@ -1,0 +1,20 @@
+<stage0>
+Doctor<title>How are you feeling today?
+Doctor<title>Have you taken your <color=#FF0000>medication</color> as prescribed?
+<title>......
+<stage1>
+Doctor<title>Please take your <color=#FF0000>medication</color>.
+<title>......
+<stage2>
+Doctor<title>The patient refuses to <color=#FF0000>medication</color>. 
+Doctor<title>EXECUTE SPECIAL TREATMENT.
+<stage3>
+Doctor<title>Very well, you seem to have taken your <color=#FF0000>medication</color> on time this time.
+Doctor<title>It appears that your condition has improved.
+<title>Thank you, Doctor. Can you tell me approximately how much longer I'll need to stay in the hospital? I feel like I'm already better.
+Doctor<title>Please be patient. I can't provide a specific answer on how much longer it will take at this moment...
+Doctor<title>Wait,someone is calling me...
+Doctor<title>What happend?
+<stage4>
+Doctor<title>Very well. You didn't take advantage of the confusion to escape or steal the <color=#FF0000>key</color>. 
+Doctor<title>I believe you'll be free to leave soon.

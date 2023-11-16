@@ -1,0 +1,2 @@
+<stage0>
+<title>This wire looks like it can be easily bend into <color=#FF0000>other shapes</color>..

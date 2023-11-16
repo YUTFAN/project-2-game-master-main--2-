@@ -1,0 +1,32 @@
+# Fill out all team + team member details below by replacing the content of the
+# respective strings. This file is parsed by our autograding software, so ensure
+# that you only replace the placeholder text, not the keys (e.g. TeamName, etc.)
+
+# 1. Your team's GitHub repository URL for project 2 (*not* project 1)
+RepoURL: https://github.com/COMP30019/project-2-game-master
+
+# 2. Since you are working in the same team for project 2, you should copy the
+#    below keys/values *verbatim* from your project 1 metadata.yml -- do not
+#    change them unless you have permission from the teaching team.
+TeamName: Game Master
+TeamMembers:
+  - Name: Langze Lu
+    Email: langzel@student.unimelb.edu.au
+  - Name: Jing Yun Tan
+    Email: jingyunt@student.unimelb.edu.au
+  - Name: Rong Wang
+    Email: rongwang@student.unimelb.edu.au
+  - Name: Yutian Fan
+    Email: yutfan1@student.unimelb.edu.au
+
+# 3. The below keys must be filled out by the given milestone deadlines, and
+#    you must also re-submit on Gradescope to register these changes officially
+#    (like in project 1). Read the specification for details.
+
+# Milestone 1 entries
+GameTitle: Night of Amnesia
+GameBlurb: You find yourself awakening with no memory of who you are or how you arrived. Night Of Amnesia plunges players into the depths of fear in a relentless quest for escape. As you manoeuvre through gloomy therapy rooms, shadowy hallways and surgical suites, your path is mired in complex puzzles and enigmatic obstacles. Each challenge overcome is a step closer to freedom.Yet, you are not alone. A mysterious doctor prowls the facility, his sole mission being to ensure you never depart from the hospital. As the main antagonist, he is the embodiment of your fears. Avoiding his watchful gaze and sinister intentions is paramount to survive. A major factor in the gameplay is the looming time limit for each challenge. The time limit creates an atmosphere of tension, forcing quick thinking and decision-making. Lean heavily on your wits, reflexes, and intuition. Night Of Amnesia is not just about escape but also survival. The game melds heart-pounding encounters with the doctor and cerebral challenges to create a unique, spine-chilling gameplay experience. One thing is certain - the hospital wants to keep its secrets, and you are its latest. The exit beckons. Can you make it through the night?
+
+
+# Milestone 2 entries
+GameplayVideo: https://youtu.be/Edp2aW7WAxY
